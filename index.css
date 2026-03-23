@@ -1,12 +1,14 @@
-h1 {
+header {
+    background-color: white;
     display: flex;
     justify-content: center;
     color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body {
+    background: scroll;
     background-image: url(achtergrond.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    height: max-content;
+    margin: 0;
 }
